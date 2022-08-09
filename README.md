@@ -35,3 +35,13 @@ https://www.linkedin.com/in/sayat-kaldarbekov/
 
 **Server:** PHP, Laravel, API
 
+## Pages screenshot
+
+**PAGE 1**
+![My Image](readme_files/page1.png)
+
+**PAGE 2**
+![My Image](readme_files/page2.png)
+
+**PAGE 3**
+![My Image](readme_files/page3.png)
